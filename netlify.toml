@@ -1,11 +1,10 @@
 [build]
-  command = "git submodule update --init --recursive && hugo --gc --minify"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.147.8"
   HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
 
 # 确保主题子模块被正确克隆
 [build.processing]
