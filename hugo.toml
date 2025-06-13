@@ -3,4 +3,46 @@ languageCode = 'zh-cn'
 title = '珠宝公司官网'
 theme = 'PaperMod'
 
+# 网站参数
+[params]
+  # 网站描述
+  description = "专业的珠宝设计与定制服务"
+  # 默认主题模式
+  defaultTheme = "light"
+  # 是否显示目录
+  ShowToc = true
+  # 是否显示阅读时间
+  ShowReadingTime = true
+  # 是否显示分享按钮
+  ShowShareButtons = true
+  # 是否显示文章字数统计
+  ShowWordCount = true
+  # 是否显示文章更新时间
+  ShowLastMod = true
+
+# 导航菜单
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "博客"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "联系我们"
+    url = "/contact/"
+    weight = 3
+
+# 社交媒体链接
+[params.socialIcons]
+  email = "mailto:contact@jewelry.com"
+  phone = "tel:+8612345678900"
+  weixin = "weixin"
+  weibo = "weibo"
+
 # 可根据需要添加更多配置
