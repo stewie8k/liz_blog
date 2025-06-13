@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '珠宝公司官网'
+theme = 'PaperMod'
+
+# 可根据需要添加更多配置
