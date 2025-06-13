@@ -1,66 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>保养 on 宝烨珠宝</title>
-    <link>http://localhost:1313/tags/%E4%BF%9D%E5%85%BB/</link>
-    <description>Recent content in 保养 on 宝烨珠宝</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E4%BF%9D%E5%85%BB/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>珠宝保养完全指南</title>
-      <link>http://localhost:1313/posts/jewelry-care-guide/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jewelry-care-guide/</guid>
-      <description>&lt;h1 id=&#34;珠宝保养完全指南&#34;&gt;珠宝保养完全指南&lt;/h1&gt;
-&lt;p&gt;正确的保养方法可以让您的珠宝保持璀璨光彩。宝烨珠宝为您带来专业的珠宝保养指南。&lt;/p&gt;
-&lt;h2 id=&#34;日常保养要点&#34;&gt;日常保养要点&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;定期清洁&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;使用专业的珠宝清洁液&lt;/li&gt;
-&lt;li&gt;避免使用家用清洁剂&lt;/li&gt;
-&lt;li&gt;定期到专业门店进行深度清洁&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;正确存放&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;不同材质的珠宝分开存放&lt;/li&gt;
-&lt;li&gt;避免阳光直射&lt;/li&gt;
-&lt;li&gt;保持干燥环境&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;佩戴注意事项&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;运动时取下珠宝&lt;/li&gt;
-&lt;li&gt;避免接触化学物质&lt;/li&gt;
-&lt;li&gt;定期检查镶嵌是否牢固&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;不同材质的保养方法&#34;&gt;不同材质的保养方法&lt;/h2&gt;
-&lt;h3 id=&#34;钻石&#34;&gt;钻石&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;定期用软毛刷清洁&lt;/li&gt;
-&lt;li&gt;避免与其他珠宝摩擦&lt;/li&gt;
-&lt;li&gt;每半年进行一次专业检查&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;黄金&#34;&gt;黄金&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;避免接触化妆品&lt;/li&gt;
-&lt;li&gt;定期用专业清洁布擦拭&lt;/li&gt;
-&lt;li&gt;注意避免划伤&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;珍珠&#34;&gt;珍珠&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;避免接触水&lt;/li&gt;
-&lt;li&gt;佩戴后及时擦拭&lt;/li&gt;
-&lt;li&gt;定期更换串线&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>保养 on 宝烨珠宝</title><link>https://example.org/tags/%E4%BF%9D%E5%85%BB/</link><description>Recent content in 保养 on 宝烨珠宝</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2025 宝烨珠宝</copyright><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E4%BF%9D%E5%85%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>珠宝保养完全指南</title><link>https://example.org/posts/jewelry-care-guide/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>https://example.org/posts/jewelry-care-guide/</guid><description>&lt;h1 class="relative group">珠宝保养完全指南
+&lt;div id="珠宝保养完全指南" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e7%8f%a0%e5%ae%9d%e4%bf%9d%e5%85%bb%e5%ae%8c%e5%85%a8%e6%8c%87%e5%8d%97" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>正确的保养方法可以让您的珠宝保持璀璨光彩。宝烨珠宝为您带来专业的珠宝保养指南。&lt;/p>
+&lt;h2 class="relative group">日常保养要点
+&lt;div id="日常保养要点" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e6%97%a5%e5%b8%b8%e4%bf%9d%e5%85%bb%e8%a6%81%e7%82%b9" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>定期清洁&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>使用专业的珠宝清洁液&lt;/li>
+&lt;li>避免使用家用清洁剂&lt;/li>
+&lt;li>定期到专业门店进行深度清洁&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>正确存放&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>不同材质的珠宝分开存放&lt;/li>
+&lt;li>避免阳光直射&lt;/li>
+&lt;li>保持干燥环境&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>佩戴注意事项&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>运动时取下珠宝&lt;/li>
+&lt;li>避免接触化学物质&lt;/li>
+&lt;li>定期检查镶嵌是否牢固&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">不同材质的保养方法
+&lt;div id="不同材质的保养方法" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e4%b8%8d%e5%90%8c%e6%9d%90%e8%b4%a8%e7%9a%84%e4%bf%9d%e5%85%bb%e6%96%b9%e6%b3%95" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">钻石
+&lt;div id="钻石" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e9%92%bb%e7%9f%b3" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>定期用软毛刷清洁&lt;/li>
+&lt;li>避免与其他珠宝摩擦&lt;/li>
+&lt;li>每半年进行一次专业检查&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">黄金
+&lt;div id="黄金" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e9%bb%84%e9%87%91" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>避免接触化妆品&lt;/li>
+&lt;li>定期用专业清洁布擦拭&lt;/li>
+&lt;li>注意避免划伤&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">珍珠
+&lt;div id="珍珠" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e7%8f%8d%e7%8f%a0" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>避免接触水&lt;/li>
+&lt;li>佩戴后及时擦拭&lt;/li>
+&lt;li>定期更换串线&lt;/li>
+&lt;/ul></description></item></channel></rss>

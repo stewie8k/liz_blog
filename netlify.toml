@@ -1,11 +1,11 @@
 [build]
-  command = "npm install && npm run build"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.147.8"
+  HUGO_VERSION = "0.124.1"
   HUGO_ENV = "production"
-  NODE_VERSION = "18"
+  HUGO_ENABLEGITINFO = "true"
 
 # 确保主题子模块被正确克隆
 [build.processing]

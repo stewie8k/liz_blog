@@ -1,0 +1,21 @@
+# 联系我们部分
+section:
+  name: 联系我们
+  id: contact
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# 联系方式
+contactInfo:
+  - name: 电子邮件
+    icon: "fas fa-envelope"
+    content: contact@baoye-jewelry.com
+    
+  - name: 电话
+    icon: "fas fa-phone-alt"
+    content: "+86 123 4567 8900"
+    
+  - name: 地址
+    icon: "fas fa-map-marker-alt"
+    content: 中国上海市 

@@ -1,64 +1,126 @@
-baseURL = 'https://example.org/'
-languageCode = 'zh-cn'
-title = '宝烨珠宝'
-theme = 'PaperMod'
+baseURL = "https://example.org/"
+languageCode = "zh-cn"
+title = "宝烨珠宝"
+theme = "blowfish"
 
-# 网站参数
+# 启用 Git 信息
+enableGitInfo = true
+
+# 默认内容语言
+defaultContentLanguage = "zh"
+
+# 内容目录
+contentDir = "content"
+# 禁用路径小写转换
+disablePathToLower = true
+
+# 启用表情符号支持
+enableEmoji = true
+
+# 启用目录
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 6
+  ordered = false
+
+# 代码高亮
+[markup.highlight]
+  style = "monokai"
+  lineNos = true
+
+# 语言设置
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    # 主页信息
+    [languages.zh.params.author]
+      name = "宝烨珠宝"
+      image = "https://example.org/images/logo.png"
+      headline = "专注于高品质珠宝设计与定制"
+      bio = "宝烨珠宝是一家专注于高品质珠宝设计与定制的公司。我们秉承'匠心独运，品质至上'的理念，为每一位客户打造独特的珠宝作品。"
+      
+    # 主页按钮
+    [[languages.zh.menu.main]]
+      name = "首页"
+      url = "/"
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = "关于我们"
+      url = "/#about"
+      weight = 2
+    [[languages.zh.menu.main]]
+      name = "产品展示"
+      url = "/#products"
+      weight = 3
+    [[languages.zh.menu.main]]
+      name = "博客"
+      url = "/posts"
+      weight = 4
+    [[languages.zh.menu.main]]
+      name = "联系我们"
+      url = "/#contact"
+      weight = 5
+
+# 主题参数
 [params]
-  # 网站描述
-  description = "宝烨珠宝 - 专业的珠宝设计与定制服务"
-  # 默认主题模式
+  background = "images/background.jpg"   # 背景图片路径
+  favicon = "images/favicon.png"         # 网站图标
+  primaryColor = "#C0A080"              # 主题主色
+  secondaryColor = "#8C7853"            # 次要颜色
+  enableDarkMode = true                  # 启用暗色模式
+  description = "宝烨珠宝 - 专业珠宝设计与定制"
+  keywords = ["珠宝","定制","钻石","项链","戒指","设计"]
   defaultTheme = "light"
-  # 是否显示目录
-  ShowToc = true
-  # 是否显示阅读时间
-  ShowReadingTime = true
-  # 是否显示分享按钮
-  ShowShareButtons = true
-  # 是否显示文章字数统计
-  ShowWordCount = true
-  # 是否显示文章更新时间
-  ShowLastMod = true
+  color = "#C0A080"
+
+  [params.meta]
+    description = "宝烨珠宝 - 专业珠宝设计与定制服务"
+
+  [params.contact]
+    email = "contact@baoye-jewelry.com"
+    phone = "+86 123 4567 8900"
+    address = "中国上海市"
+
+  [[params.socialLinks]]
+    name = "微信"
+    icon = "fab fa-weixin"
+    url = "#"
+  [[params.socialLinks]]
+    name = "微博"
+    icon = "fab fa-weibo"
+    url = "#"
+
+# 站点作者信息，PaperMod 主题部分模板依赖
+[author]
+  name = "宝烨珠宝"
+  homepage = "https://example.org/"
+  image = "https://example.org/images/logo.png"
+
+# 主页配置，避免 schema_json 报错
+[params.homeInfoParams]
+  Title = "欢迎来到宝烨珠宝"
+  Content = "专注于高品质珠宝设计与定制。"
 
 # 导航菜单
 [menu]
   [[menu.main]]
-    identifier = "home"
     name = "首页"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "posts"
     name = "博客"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    identifier = "contact"
     name = "联系我们"
-    url = "/contact/"
+    url = "/#contact"
     weight = 3
-
-# 社交媒体链接
-[params.socialIcons]
-  email = "mailto:contact@baoye-jewelry.com"
-  phone = "tel:+8612345678900"
-  weixin = "weixin"
-  weibo = "weibo"
 
 # 忽略警告
 ignoreLogs = ['warning-goldmark-raw-html']
 
-# 允许原始 HTML
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "monokai"
-    lineNos = true
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
-
 # 可根据需要添加更多配置
+
+[markup.goldmark.renderer]
+  unsafe = true

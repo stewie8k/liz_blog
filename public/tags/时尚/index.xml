@@ -1,28 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>时尚 on 宝烨珠宝</title>
-    <link>http://localhost:1313/tags/%E6%97%B6%E5%B0%9A/</link>
-    <description>Recent content in 时尚 on 宝烨珠宝</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%97%B6%E5%B0%9A/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2024年珠宝设计趋势展望</title>
-      <link>http://localhost:1313/posts/jewelry-trends-2024/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jewelry-trends-2024/</guid>
-      <description>&lt;h1 id=&#34;2024年珠宝设计趋势展望&#34;&gt;2024年珠宝设计趋势展望&lt;/h1&gt;
-&lt;p&gt;随着时尚界的不断发展，2024年的珠宝设计趋势呈现出更多元化和个性化的特点。宝烨珠宝为您带来最新的珠宝设计趋势分析。&lt;/p&gt;
-&lt;h2 id=&#34;1-可持续性设计&#34;&gt;1. 可持续性设计&lt;/h2&gt;
-&lt;p&gt;环保理念在珠宝设计中越来越受重视。设计师们开始使用回收金属和实验室培育的宝石，既保证了品质，又践行了环保理念。&lt;/p&gt;
-&lt;h2 id=&#34;2-个性化定制&#34;&gt;2. 个性化定制&lt;/h2&gt;
-&lt;p&gt;消费者越来越注重珠宝的独特性，定制化服务成为主流。宝烨珠宝提供一对一设计服务，让每件作品都成为独一无二的艺术品。&lt;/p&gt;
-&lt;h2 id=&#34;3-复古元素复兴&#34;&gt;3. 复古元素复兴&lt;/h2&gt;
-&lt;p&gt;经典设计元素重新流行，复古风格的珠宝受到追捧。设计师们巧妙地将传统工艺与现代设计相结合，创造出既经典又时尚的作品。&lt;/p&gt;
-&lt;h2 id=&#34;4-色彩创新&#34;&gt;4. 色彩创新&lt;/h2&gt;
-&lt;p&gt;除了传统的钻石和黄金，彩色宝石的使用更加大胆。设计师们通过巧妙的色彩搭配，让珠宝作品更具视觉冲击力。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>时尚 on 宝烨珠宝</title><link>https://example.org/tags/%E6%97%B6%E5%B0%9A/</link><description>Recent content in 时尚 on 宝烨珠宝</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2025 宝烨珠宝</copyright><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E6%97%B6%E5%B0%9A/index.xml" rel="self" type="application/rss+xml"/><item><title>2024年珠宝设计趋势展望</title><link>https://example.org/posts/jewelry-trends-2024/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>https://example.org/posts/jewelry-trends-2024/</guid><description>&lt;h1 class="relative group">2024年珠宝设计趋势展望
+&lt;div id="2024年珠宝设计趋势展望" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2024%e5%b9%b4%e7%8f%a0%e5%ae%9d%e8%ae%be%e8%ae%a1%e8%b6%8b%e5%8a%bf%e5%b1%95%e6%9c%9b" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>随着时尚界的不断发展，2024年的珠宝设计趋势呈现出更多元化和个性化的特点。宝烨珠宝为您带来最新的珠宝设计趋势分析。&lt;/p>
+&lt;h2 class="relative group">1. 可持续性设计
+&lt;div id="1-可持续性设计" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-%e5%8f%af%e6%8c%81%e7%bb%ad%e6%80%a7%e8%ae%be%e8%ae%a1" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>环保理念在珠宝设计中越来越受重视。设计师们开始使用回收金属和实验室培育的宝石，既保证了品质，又践行了环保理念。&lt;/p>
+&lt;h2 class="relative group">2. 个性化定制
+&lt;div id="2-个性化定制" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2-%e4%b8%aa%e6%80%a7%e5%8c%96%e5%ae%9a%e5%88%b6" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>消费者越来越注重珠宝的独特性，定制化服务成为主流。宝烨珠宝提供一对一设计服务，让每件作品都成为独一无二的艺术品。&lt;/p>
+&lt;h2 class="relative group">3. 复古元素复兴
+&lt;div id="3-复古元素复兴" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#3-%e5%a4%8d%e5%8f%a4%e5%85%83%e7%b4%a0%e5%a4%8d%e5%85%b4" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>经典设计元素重新流行，复古风格的珠宝受到追捧。设计师们巧妙地将传统工艺与现代设计相结合，创造出既经典又时尚的作品。&lt;/p>
+&lt;h2 class="relative group">4. 色彩创新
+&lt;div id="4-色彩创新" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#4-%e8%89%b2%e5%bd%a9%e5%88%9b%e6%96%b0" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>除了传统的钻石和黄金，彩色宝石的使用更加大胆。设计师们通过巧妙的色彩搭配，让珠宝作品更具视觉冲击力。&lt;/p></description></item></channel></rss>

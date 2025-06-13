@@ -1,0 +1,8 @@
+{{ define "_default/_markup/render-codeblock.html" }}
+{{- /* 默认代码块渲染 */ -}}
+{{- if .IsInline -}}
+  <code{{ with .Language }} class="language-{{ . }}"{{ end }}>{{ .Inner | safeHTML }}</code>
+{{- else -}}
+  <pre{{ with .Language }} class="language-{{ . }}"{{ end }}><code>{{ .Inner | safeHTML }}</code></pre>
+{{- end -}}
+{{ end }} 

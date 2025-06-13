@@ -1,50 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>工艺 on 宝烨珠宝</title>
-    <link>http://localhost:1313/tags/%E5%B7%A5%E8%89%BA/</link>
-    <description>Recent content in 工艺 on 宝烨珠宝</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%B7%A5%E8%89%BA/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>宝烨珠宝定制流程详解</title>
-      <link>http://localhost:1313/posts/custom-jewelry-process/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/custom-jewelry-process/</guid>
-      <description>&lt;h1 id=&#34;宝烨珠宝定制流程详解&#34;&gt;宝烨珠宝定制流程详解&lt;/h1&gt;
-&lt;p&gt;在宝烨珠宝，我们为每一位客户提供专业的定制服务。本文将详细介绍我们的定制流程，让您了解一件定制珠宝是如何诞生的。&lt;/p&gt;
-&lt;h2 id=&#34;1-需求沟通&#34;&gt;1. 需求沟通&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;一对一专属设计顾问&lt;/li&gt;
-&lt;li&gt;深入了解客户需求&lt;/li&gt;
-&lt;li&gt;确定预算和风格偏好&lt;/li&gt;
-&lt;li&gt;提供专业建议&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-设计阶段&#34;&gt;2. 设计阶段&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;设计师绘制草图&lt;/li&gt;
-&lt;li&gt;3D建模展示&lt;/li&gt;
-&lt;li&gt;多方案对比&lt;/li&gt;
-&lt;li&gt;客户确认修改&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;3-制作工艺&#34;&gt;3. 制作工艺&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;精选优质材料&lt;/li&gt;
-&lt;li&gt;传统工艺与现代技术结合&lt;/li&gt;
-&lt;li&gt;严格的质量把控&lt;/li&gt;
-&lt;li&gt;精细的打磨抛光&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;4-成品交付&#34;&gt;4. 成品交付&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;专业鉴定证书&lt;/li&gt;
-&lt;li&gt;详细保养说明&lt;/li&gt;
-&lt;li&gt;终身保养服务&lt;/li&gt;
-&lt;li&gt;售后跟踪服务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;定制案例展示&#34;&gt;定制案例展示&lt;/h2&gt;
-&lt;p&gt;我们为众多客户打造了独特的珠宝作品，每一件都承载着特别的故事和情感。欢迎预约参观我们的定制作品展示厅。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>工艺 on 宝烨珠宝</title><link>https://example.org/tags/%E5%B7%A5%E8%89%BA/</link><description>Recent content in 工艺 on 宝烨珠宝</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2025 宝烨珠宝</copyright><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E5%B7%A5%E8%89%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>宝烨珠宝定制流程详解</title><link>https://example.org/posts/custom-jewelry-process/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>https://example.org/posts/custom-jewelry-process/</guid><description>&lt;h1 class="relative group">宝烨珠宝定制流程详解
+&lt;div id="宝烨珠宝定制流程详解" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e5%ae%9d%e7%83%a8%e7%8f%a0%e5%ae%9d%e5%ae%9a%e5%88%b6%e6%b5%81%e7%a8%8b%e8%af%a6%e8%a7%a3" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>在宝烨珠宝，我们为每一位客户提供专业的定制服务。本文将详细介绍我们的定制流程，让您了解一件定制珠宝是如何诞生的。&lt;/p>
+&lt;h2 class="relative group">1. 需求沟通
+&lt;div id="1-需求沟通" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-%e9%9c%80%e6%b1%82%e6%b2%9f%e9%80%9a" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>一对一专属设计顾问&lt;/li>
+&lt;li>深入了解客户需求&lt;/li>
+&lt;li>确定预算和风格偏好&lt;/li>
+&lt;li>提供专业建议&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">2. 设计阶段
+&lt;div id="2-设计阶段" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2-%e8%ae%be%e8%ae%a1%e9%98%b6%e6%ae%b5" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>设计师绘制草图&lt;/li>
+&lt;li>3D建模展示&lt;/li>
+&lt;li>多方案对比&lt;/li>
+&lt;li>客户确认修改&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">3. 制作工艺
+&lt;div id="3-制作工艺" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#3-%e5%88%b6%e4%bd%9c%e5%b7%a5%e8%89%ba" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>精选优质材料&lt;/li>
+&lt;li>传统工艺与现代技术结合&lt;/li>
+&lt;li>严格的质量把控&lt;/li>
+&lt;li>精细的打磨抛光&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">4. 成品交付
+&lt;div id="4-成品交付" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#4-%e6%88%90%e5%93%81%e4%ba%a4%e4%bb%98" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>专业鉴定证书&lt;/li>
+&lt;li>详细保养说明&lt;/li>
+&lt;li>终身保养服务&lt;/li>
+&lt;li>售后跟踪服务&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">定制案例展示
+&lt;div id="定制案例展示" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%e5%ae%9a%e5%88%b6%e6%a1%88%e4%be%8b%e5%b1%95%e7%a4%ba" aria-label="">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>我们为众多客户打造了独特的珠宝作品，每一件都承载着特别的故事和情感。欢迎预约参观我们的定制作品展示厅。&lt;/p></description></item></channel></rss>

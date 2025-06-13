@@ -1,0 +1,21 @@
+# 作者信息
+name: "宝烨珠宝"
+nickname: "宝烨"
+image: "images/logo.png"
+
+# 联系信息
+contactInfo:
+  email: "contact@baoye-jewelry.com"
+  phone: "+86 123 4567 8900"
+  
+# 简介
+summary: "专注于高品质珠宝设计与定制"
+
+# 社交媒体链接
+socialLinks:
+  - name: 微信
+    icon: "fab fa-weixin"
+    url: "#"
+  - name: 微博
+    icon: "fab fa-weibo"
+    url: "#" 

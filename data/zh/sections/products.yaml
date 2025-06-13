@@ -1,0 +1,31 @@
+# 产品展示部分
+section:
+  name: 产品展示
+  id: products
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# 产品列表
+products:
+  - name: 永恒之爱钻戒
+    logo: images/products/ring.jpg
+    featured: true
+    summary: 1克拉圆形钻石，18K白金，六爪镶嵌工艺
+    tags: ["钻戒", "婚戒", "定制"]
+    
+  - name: 星月项链
+    logo: images/products/necklace.jpg
+    featured: true
+    summary: 0.5克拉钻石，18K玫瑰金，星月造型设计
+    tags: ["项链", "钻石", "玫瑰金"]
+    
+  - name: 蓝海之心吊坠
+    logo: images/products/pendant.jpg
+    summary: 1.2克拉蓝宝石，18K白金，水滴形设计
+    tags: ["吊坠", "蓝宝石", "定制"]
+    
+  - name: 花语手链
+    logo: images/products/bracelet.jpg
+    summary: 0.8克拉碎钻，18K黄金，花朵造型设计
+    tags: ["手链", "黄金", "碎钻"] 
