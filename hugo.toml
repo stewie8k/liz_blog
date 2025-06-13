@@ -1,12 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
-title = '珠宝公司官网'
+title = '宝烨珠宝'
 theme = 'PaperMod'
 
 # 网站参数
 [params]
   # 网站描述
-  description = "专业的珠宝设计与定制服务"
+  description = "宝烨珠宝 - 专业的珠宝设计与定制服务"
   # 默认主题模式
   defaultTheme = "light"
   # 是否显示目录
@@ -40,7 +40,7 @@ theme = 'PaperMod'
 
 # 社交媒体链接
 [params.socialIcons]
-  email = "mailto:contact@jewelry.com"
+  email = "mailto:contact@baoye-jewelry.com"
   phone = "tel:+8612345678900"
   weixin = "weixin"
   weibo = "weibo"
