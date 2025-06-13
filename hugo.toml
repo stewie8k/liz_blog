@@ -63,5 +63,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
 
 # 可根据需要添加更多配置
