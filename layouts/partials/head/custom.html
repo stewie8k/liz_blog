@@ -1,0 +1,14 @@
+<!-- Netlify Identity widget & auto-redirect for invite/confirmation tokens -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  (function() {
+    // 如果 URL 带有 invite_token 或 confirmation_token，则跳到 /admin 并保留 hash
+    if (window.location.hash.match(/_(token)=/)) {
+      var target = "/admin/" + window.location.hash;
+      // 只有当前不在 /admin/ 时才跳转，避免循环
+      if (!window.location.pathname.startsWith("/admin")) {
+        window.location.replace(target);
+      }
+    }
+  })();
+</script> 
