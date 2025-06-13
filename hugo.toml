@@ -28,15 +28,25 @@ theme = 'PaperMod'
     url = "/"
     weight = 1
   [[menu.main]]
+    identifier = "products"
+    name = "产品展示"
+    url = "/products/"
+    weight = 2
+  [[menu.main]]
     identifier = "posts"
     name = "博客"
     url = "/posts/"
-    weight = 2
+    weight = 3
+  [[menu.main]]
+    identifier = "appointment"
+    name = "在线预约"
+    url = "/appointment/"
+    weight = 4
   [[menu.main]]
     identifier = "contact"
     name = "联系我们"
     url = "/contact/"
-    weight = 3
+    weight = 5
 
 # 社交媒体链接
 [params.socialIcons]
