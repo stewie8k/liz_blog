@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>产品展示 on 宝烨珠宝</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in 产品展示 on 宝烨珠宝</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>钻石系列</title>
+      <link>http://localhost:1313/products/diamond-collection/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/diamond-collection/</guid>
+      <description>&lt;h1 id=&#34;钻石系列&#34;&gt;钻石系列&lt;/h1&gt;
+&lt;p&gt;宝烨珠宝钻石系列，精选优质钻石，搭配精湛工艺，打造永恒璀璨的珠宝作品。&lt;/p&gt;
+&lt;h2 id=&#34;产品特点&#34;&gt;产品特点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;严选优质钻石&lt;/li&gt;
+&lt;li&gt;精湛切割工艺&lt;/li&gt;
+&lt;li&gt;独特设计理念&lt;/li&gt;
+&lt;li&gt;完美镶嵌技术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;热销产品&#34;&gt;热销产品&lt;/h2&gt;
+&lt;h3 id=&#34;1-永恒之爱钻戒&#34;&gt;1. 永恒之爱钻戒&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;主石：1克拉圆形钻石&lt;/li&gt;
+&lt;li&gt;材质：18K白金&lt;/li&gt;
+&lt;li&gt;特点：六爪镶嵌，突出钻石火彩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-星月项链&#34;&gt;2. 星月项链&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;主石：0.5克拉钻石&lt;/li&gt;
+&lt;li&gt;材质：18K玫瑰金&lt;/li&gt;
+&lt;li&gt;特点：星月造型，优雅浪漫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-花语耳环&#34;&gt;3. 花语耳环&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;主石：0.3克拉钻石&lt;/li&gt;
+&lt;li&gt;材质：18K黄金&lt;/li&gt;
+&lt;li&gt;特点：花瓣造型，灵动优雅&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

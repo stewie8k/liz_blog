@@ -1,10 +1,16 @@
 [build]
-  command = "hugo --gc --minify"
+  command = """
+    git submodule update --init --recursive && \
+    hugo version && \
+    ls -la themes/PaperMod && \
+    hugo --gc --minify --debug
+  """
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.147.8"
   HUGO_ENV = "production"
+  HUGO_DEBUG = "true"
 
 # 确保主题子模块被正确克隆
 [build.processing]
