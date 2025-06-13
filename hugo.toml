@@ -55,4 +55,13 @@ theme = 'PaperMod'
   weixin = "weixin"
   weibo = "weibo"
 
+# 忽略警告
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# 允许原始 HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # 可根据需要添加更多配置

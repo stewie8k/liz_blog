@@ -17,4 +17,20 @@ layout: "home"
 
 ## 最新动态
 
-在这里，您可以了解我们的最新作品和行业动态。我们定期分享珠宝设计趋势、保养知识，以及宝烨珠宝的最新作品。 
+在这里，您可以了解我们的最新作品和行业动态。我们定期分享珠宝设计趋势、保养知识，以及宝烨珠宝的最新作品。
+
+{{< rawhtml >}}
+<div class="featured-products">
+  <h2>精选产品</h2>
+  <div class="product-grid">
+    <div class="product-card">
+      <h3>永恒之爱钻戒</h3>
+      <p>1克拉圆形钻石，18K白金</p>
+    </div>
+    <div class="product-card">
+      <h3>星月项链</h3>
+      <p>0.5克拉钻石，18K玫瑰金</p>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}} 
